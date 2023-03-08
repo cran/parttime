@@ -1,3 +1,8 @@
+# parttime 0.1.1
+
+* Update formals for `vctrs` generic methods to reflect changes in the `vctrs`
+  package.
+
 # parttime 0.1.0
 
 * Reworked `pmax` and `pmin` handling to address edge case failure modes.

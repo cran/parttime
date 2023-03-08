@@ -1,7 +1,7 @@
 Package: parttime
 Type: Package
 Title: Partial Datetime Handling
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
     c(
       person(
@@ -29,16 +29,16 @@ Description:
     conveniently.
 License: MIT + file LICENSE
 Encoding: UTF-8
-RoxygenNote: 7.2.1
+RoxygenNote: 7.2.3
 BugReports: https://github.com/dgkf/parttime/issues
 URL: https://dgkf.github.io/parttime/, https://github.com/dgkf/parttime
 Depends: R (>= 3.6)
 Imports: crayon, lubridate, methods, pillar, utils, vctrs (>= 0.2.0)
 Suggests: dplyr, withr, testthat, knitr, rmarkdown
 NeedsCompilation: no
-Packaged: 2022-11-03 19:16:31 UTC; root
+Packaged: 2023-03-08 21:20:38 UTC; root
 Author: Doug Kelkhoff [aut, cre],
   Bill Denney [ctb] (<https://orcid.org/0000-0002-5759-428X>)
 Maintainer: Doug Kelkhoff <doug.kelkhoff@gmail.com>
 Repository: CRAN
-Date/Publication: 2022-11-04 10:00:02 UTC
+Date/Publication: 2023-03-08 22:00:02 UTC
