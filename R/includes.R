@@ -52,6 +52,7 @@ includes.partial_time.partial_time <- function(e1, e2) {
 
 
 
+#' @exportS3Method includes timespan
 includes.timespan <- function(e1, e2) {
   UseMethod("includes.timespan")
 }
